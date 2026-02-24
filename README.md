@@ -28,4 +28,4 @@ Nalanda Institute of Engineering and Technology, AP
 ### 📌 **Let's Connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-RajeshBandaru-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajesh-bandaru-b05767267/)  
 [![Email](https://img.shields.io/badge/Email-rajeshbandaru225%40gmail.com-red?style=flat&logo=gmail)](mailto:rajeshbandaru225@gmail.com)
-# rajesh
+
